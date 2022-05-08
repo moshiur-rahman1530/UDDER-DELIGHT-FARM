@@ -1,0 +1,20 @@
+.footer-img img {
+    width: 50%;
+    margin-left: 30px;
+    text-align: center;
+    /* padding-top: 40px; */
+}
+
+.link-area {
+    padding: 30px;
+}
+
+.footer-section {
+    padding: 60px 50px;
+}
+
+.footer-fram-text {
+    font-size: .938em;
+    line-height: 1.75;
+    margin: 18 px 0 0;
+}

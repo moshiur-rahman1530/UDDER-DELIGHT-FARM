@@ -1,0 +1,62 @@
+.g-map-style-icon {
+    font-size: 40px;
+    color: rgba(16, 65, 16, 0.781);
+
+}
+
+.contact-container {
+    background-color: rgb(209, 168, 106);
+}
+
+.contact-heading-text {
+    /* padding-top: 30px;
+    padding-bottom: 30px; */
+    font-size: 20px;
+    padding: 30px 0px !important;
+    text-align: justify;
+    margin-bottom: 0px;
+}
+
+.contact-heading-email {
+    font-size: 20px;
+    padding: 30px 0px !important;
+    text-align: end;
+    margin-bottom: 0px;
+}
+
+.cow-img {
+    width: 100%;
+}
+
+.organic-nopadding {
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+}
+
+.button {
+    padding: 0 30px;
+    border: 1px solid black;
+    /* display: inline-block; */
+    border-radius: 30px;
+    font-size: 16px;
+    text-transform: uppercase;
+    height: 46px;
+    width: auto;
+    /* cursor: pointer; */
+    font-weight: 600 !important;
+    letter-spacing: .1em;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.contact-form {
+    padding: 60px;
+}
+
+@media screen and (max-width:650px) {
+    .contact-form {
+        padding: 0px;
+    }
+}

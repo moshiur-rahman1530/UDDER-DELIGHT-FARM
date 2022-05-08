@@ -1,0 +1,85 @@
+.firm-top-image img {
+    max-height: 500px;
+}
+
+.section-bg {
+    background-color: #e9f0f3;
+}
+
+.text-container {
+    padding: 54px;
+}
+
+.padding-0 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.firm-about-img {
+    height: 100%;
+}
+
+.firm-about-img>img {
+    height: 80%;
+}
+
+.firm-about-text {
+    text-align: justify;
+    font-size: 17px;
+    line-height: 1.75;
+    margin: 18px 0 0;
+    overflow-wrap: break-word;
+}
+
+.firm-menu-text {
+    text-align: left;
+    font-size: 17px;
+    line-height: 1.75;
+    margin: 18px 0 0;
+    overflow-wrap: break-word;
+}
+
+.section-video {
+    margin-bottom: 40px;
+}
+
+.farm-video {
+    width: 100%;
+    height: 90vh;
+}
+
+.profile-data {
+    text-align: center;
+    font-size: 17px;
+    line-height: 1.75;
+    /* margin: 18px 0 0;
+overflow-wrap: break-word; */
+}
+
+.signature-img {
+    height: 100px;
+}
+
+.learn-link {
+    color: #9AB862;
+}
+
+.learn-link:hover {
+    color: #78ad16;
+}
+
+.profile-img {
+    width: 100%;
+    height: 100%;
+}
+
+.bg-brown {
+    background-color: #E5E3D9;
+}
+
+@media (min-width: 750px) and (max-width: 1050px) {
+    .profile-img {
+        /* max-height: 650px; */
+        /* height: 600px; */
+    }
+}

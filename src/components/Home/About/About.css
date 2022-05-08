@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.about-title-first {
+    color: black;
+    font-size: 48px;
+    font-family: 'Anton',
+        sans-serif;
+    display: block;
+}
+
+.about-title-middle {
+    color: #9AB862;
+}
+
+.font-chelsea {
+    font-family: 'Chelsea Market',
+        cursive;
+}
+
+.about-title-last {
+    color: #9AB862;
+    font-size: 48px;
+    font-family: 'Anton',
+        sans-serif;
+    display: block;
+}
+
+.font-chelsea {
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Chelsea Market',
+        cursive;
+    color: #998c74;
+}
+
+.heading-text {
+    font-size: 17px;
+    font-family: 'Open Sans',
+        sans-serif;
+}
+
+.about-text {
+    /* padding: 54px 36px 54px 36px; */
+    padding: 54px;
+}
+
+.about-img {
+    height: 100%;
+    width: 100%;
+}
+
+.about-text-container {
+    /* padding: 30px; */
+}

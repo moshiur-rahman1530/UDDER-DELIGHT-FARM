@@ -1,0 +1,32 @@
+.offer-first {
+    color: black;
+    font-size: 48px;
+    font-family: 'Anton',
+        sans-serif;
+}
+
+.offer-last {
+    color: #9AB862;
+    font-size: 48px;
+    font-family: 'Anton',
+        sans-serif;
+}
+
+.thumbnail {
+    position: relative;
+    /* text-align: center; */
+    color: white;
+}
+
+.caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    color: white;
+    font-size: 44px;
+    text-align: center;
+    font-family: 'Anton',
+        sans-serif;
+}
