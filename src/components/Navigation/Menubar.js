@@ -48,12 +48,12 @@ const Menubar = () => {
                     <ul className="navbar-nav mx-auto d-flex align-items-center">
                         <li className="nav-item">
                             <Nav.Link className="nav-link" as={NavLink} to={'/'} style={isActive => ({
-                                color: isActive ? "rgb(122, 170, 50)" : "white"
+                                color: isActive ? "#78764A" : "white"
                             })}>HOME</Nav.Link>
                         </li>
                         <li className="nav-item">
                             <Nav.Link className="nav-link" as={NavLink} to={'/firm'} style={isActive => ({
-                                color: isActive ? "rgb(122, 170, 50)" : "white"
+                                color: isActive ? "#78764A" : "white"
                             })}>OUR FARM</Nav.Link>
                         </li>
 
@@ -62,12 +62,12 @@ const Menubar = () => {
                         </NavLink>
                         <li className="nav-item">
                             <Nav.Link className="nav-link" as={NavLink} to={'/owner'} style={isActive => ({
-                                color: isActive ? "rgb(122, 170, 50)" : "white"
+                                color: isActive ? "#78764A" : "white"
                             })}>UDDER DELIGHT</Nav.Link>
                         </li>
                         <li className="nav-item">
                             <Nav.Link className="nav-link" as={NavLink} to={'/contact'} style={isActive => ({
-                                color: isActive ? "rgb(122, 170, 50)" : "white"
+                                color: isActive ? "#78764A" : "white"
                             })}>CONTACT US</Nav.Link>
                         </li>
                     </ul>
