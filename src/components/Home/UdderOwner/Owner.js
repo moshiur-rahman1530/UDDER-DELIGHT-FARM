@@ -50,8 +50,8 @@ const Owner = () => {
         <div className='container-fluid'>
             <Container>
                 <h1 className='my-5'>
-                    <span className='offer-first'>EILEEN WASSON </span>
-                    <span className='offer-last'>O'BYRNE</span>
+                    <span className='offer-first'>TOM </span>
+                    <span className='offer-last'>SMITH</span>
                 </h1>
                 <Row className='mb-5'>
                     <Col sm={12} md={3}>
@@ -60,7 +60,7 @@ const Owner = () => {
                     <Col sm={12} md={9} className='pb-3'>
                         <Row>
                             <Col sm={12} md={12}>
-                                <p className='ownerText'>Eileen was truly a remarkable woman, a glorious force of nature and brilliant light. Intelligent, funny, courageous, resilient, kind, and delightfully mischievous. Her indomitable spirit was inspirational, her Joie de Vive contagious. She was the bright, shining star in the constellation of our family, the spark that lit up every gathering, the compelling flame we all were irresistibly drawn to, and impossible to miss in a room. As a mother to eleven children, she is a fine example of a life well-lived.</p>
+                                <p className='ownerText'>Tom Smith was truly a remarkable man, a glorious force of nature and brilliant light. Intelligent, funny, courageous, resilient, kind, and delightfully mischievous. His indomitable spirit was inspirational, his Joie de Vive contagious. He was the bright, shining star in the constellation of our family, the spark that lit up every gathering, the compelling flame we all were irresistibly drawn to, and impossible to man in a room. As a father to tom smith children, he is a fine example of a life well-lived.</p>
                             </Col>
                             <Col sm={12} md={12}>
                                 <Row className='g-4'>
@@ -105,7 +105,7 @@ const Owner = () => {
                                     </Col>
                                 </Row>
 
-                                <Modal show={show} onHide={handleClose} dialogClassName="modal-90w" centered>
+                                <Modal show={show} onHide={handleClose} dialogclassName="modal-90w" centered>
                                     <Modal.Header closeButton>
                                         <Modal.Title>Modal heading</Modal.Title>
                                     </Modal.Header>

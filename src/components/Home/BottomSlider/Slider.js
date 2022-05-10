@@ -48,50 +48,50 @@ const Slider = () => {
                         >
                             <SwiperSlide>
                                 <div>
-                                    <div class="d-flex align-items-center">
+                                    <div className="d-flex align-items-center">
                                         {/* <FontAwesomeIcon icon="fa-solid fa-quote-left" /> */}
                                         <FontAwesomeIcon className='quote-icon' icon={faQuoteLeft} />
-                                        <div class="">
+                                        <div className="">
 
-                                            <h4 class="font-chelsea h4"><span>Boris Yeltsin</span></h4>
-                                            <div class=""><p>from United States</p>
+                                            <h4 className="font-chelsea h4"><span>Boris Yeltsin</span></h4>
+                                            <div className=""><p>from United States</p>
                                             </div>
                                         </div>
 
                                     </div>
-                                    <div class="mt-4 text-start"><p> Love these. I've been wearing them for a year now and they still look awesome.</p>
+                                    <div className="mt-4 text-start"><p> Love these. I've been wearing them for a year now and they still look awesome.</p>
                                     </div>
                                 </div>
                             </SwiperSlide>
                             <SwiperSlide>
                                 <div>
-                                    <div class="d-flex align-items-center">
+                                    <div className="d-flex align-items-center">
                                         {/* <FontAwesomeIcon icon="fa-solid fa-quote-left" /> */}
                                         <FontAwesomeIcon className='quote-icon' icon={faQuoteLeft} />
-                                        <div class="">
-                                            <h4 class="font-chelsea h4"><span>Boris Yeltsin</span></h4>
-                                            <div class=""><p>from United States</p>
+                                        <div className="">
+                                            <h4 className="font-chelsea h4"><span>Boris Yeltsin</span></h4>
+                                            <div className=""><p>from United States</p>
                                             </div>
                                         </div>
 
                                     </div>
-                                    <div class="mt-4 text-start"><p> Love these. I've been wearing them for a year now and they still look awesome.</p>
+                                    <div className="mt-4 text-start"><p> Love these. I've been wearing them for a year now and they still look awesome.</p>
                                     </div>
                                 </div>
                             </SwiperSlide>
                             <SwiperSlide>
                                 <div>
-                                    <div class="d-flex align-items-center">
+                                    <div className="d-flex align-items-center">
                                         {/* <FontAwesomeIcon icon="fa-solid fa-quote-left" /> */}
                                         <FontAwesomeIcon className='quote-icon' icon={faQuoteLeft} />
-                                        <div class="">
-                                            <h4 class="font-chelsea h4"><span>Boris Yeltsin</span></h4>
-                                            <div class=""><p>from United States</p>
+                                        <div className="">
+                                            <h4 className="font-chelsea h4"><span>Boris Yeltsin</span></h4>
+                                            <div className=""><p>from United States</p>
                                             </div>
                                         </div>
 
                                     </div>
-                                    <div class="mt-4 text-start"><p> Love these. I've been wearing them for a year now and they still look awesome.</p>
+                                    <div className="mt-4 text-start"><p> Love these. I've been wearing them for a year now and they still look awesome.</p>
                                     </div>
                                 </div>
                             </SwiperSlide>

@@ -14,12 +14,12 @@ const Contact = () => {
                     <div className="row">
                         <div className="col-lg-6 col-sm-12">
                             <h3 className='contact-heading-text font-chelsea text-white'>
-                                3161 Campion Rd, Victoria BC, Canada
+                                Dhaka,Bangladesh
                             </h3>
                         </div>
                         <div className="col-lg-6 col-sm-12 text-center">
                             <h3 className='contact-heading-email font-chelsea text-white'>
-                                info@bigecountryfarms.com
+                                info@udderdelightfarms.com
                             </h3>
                         </div>
                     </div>

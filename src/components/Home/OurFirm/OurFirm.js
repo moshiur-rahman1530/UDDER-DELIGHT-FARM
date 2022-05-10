@@ -45,7 +45,7 @@ const OurFirm = () => {
                             </h2>
 
                             <p className='firm-about-text'>
-                                A no-till farming system, as an aspect of conservation farming, allows Big E Country Farms to avoid the use of large amounts of farm machinery. It excludes soil tillage, preventing crop residue from being incorporated into the soil. Also, crops are sown in the field full of residue from the previous crop. No-till farming, therefore, includes minimal soil disturbance, direct sowing, crop rotation and helps sequester carbon. Big E Country Farms is able to increase the benefits across its harvest. These include reduced soil disturbances, higher quality health management, lower labour costs and enhance crop residue helping with water filtration and reduced evaporation of this precious resource.
+                                A no-till farming system, as an aspect of conservation farming, allows Udder Delight Farms to avoid the use of large amounts of farm machinery. It excludes soil tillage, preventing crop residue from being incorporated into the soil. Also, crops are sown in the field full of residue from the previous crop. No-till farming, therefore, includes minimal soil disturbance, direct sowing, crop rotation and helps sequester carbon. Udder Delight Farms is able to increase the benefits across its harvest. These include reduced soil disturbances, higher quality health management, lower labour costs and enhance crop residue helping with water filtration and reduced evaporation of this precious resource.
                             </p>
                         </div>
                     </Col>
@@ -107,7 +107,7 @@ const OurFirm = () => {
                         </h1>
 
                         <p className='profile-data'>
-                            Eileen was truly a remarkable woman, a glorious force of nature and brilliant light. Intelligent, funny, courageous, resilient, kind, and delightfully mischievous. Her indomitable spirit was inspirational, her Joie de Vive contagious. She was the bright, shining star in the constellation of our family, the spark that lit up every gathering, the compelling flame we all were irresistibly drawn to, and impossible to miss in a room.
+                            Tom Smith was truly a remarkable woman, a glorious force of nature and brilliant light. Intelligent, funny, courageous, resilient, kind, and delightfully mischievous. Her indomitable spirit was inspirational, her Joie de Vive contagious. She was the bright, shining star in the constellation of our family, the spark that lit up every gathering, the compelling flame we all were irresistibly drawn to, and impossible to miss in a room.
                         </p>
 
                         <h6 className='text-center'>
